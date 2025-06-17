@@ -89,6 +89,11 @@ Each stock uses a sequence-based LSTM trained on the last 60 days of closing pri
 }
 ```
 
+## Streamlit UI
+
+![Historical and Predictions](./references/figures/page-1.jpg)
+![Portfolio Split](./references/figures/page-2.jpg)
+
 ---
 
 ## 📄 License
