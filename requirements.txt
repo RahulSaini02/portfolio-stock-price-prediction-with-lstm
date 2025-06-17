@@ -1,0 +1,11 @@
+ipykernel
+python-dotenv
+yfinance 
+keras 
+scikit-learn 
+matplotlib 
+seaborn
+streamlit
+numpy
+pandas
+plotly
